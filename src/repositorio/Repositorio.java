@@ -18,6 +18,7 @@ public class Repositorio {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("Agregado");
+        System.err.println("Agregado2");
     }
     
 }
